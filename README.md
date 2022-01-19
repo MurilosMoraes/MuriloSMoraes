@@ -2,8 +2,8 @@
 ## Mesmo estudando, ja participei de projetos bem legais!
 
 
-- 👯 Tenho uma empresa de tecnologia em sociedade, que se chama Panda Apps
-- 🔭 Atualmente faço a gestão dos projetos da minha empresa
+- 👯 Tenho um time de tecnologia em sociedade, que se chama Panda Apps
+- 🔭 Atualmente faço a gestão dos projetos 
 - 🌱 Estudo Front-end, atualmente focado em Javascript
 
 <div align="center">
