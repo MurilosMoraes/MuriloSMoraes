@@ -1,10 +1,11 @@
-## Olá, eu sou o Murilo Moraes, um desenvolvedor Front-end em construção.
-## Mesmo estudando, ja participei de projetos bem legais!
+## Olá, eu sou o Murilo Moraes, desenvolvedor Front-end
 
 
-- 👯 Tenho um time de tecnologia em sociedade, que se chama Panda Apps
-- 🔭 Atualmente faço a gestão dos projetos 
-- 🌱 Estudo Front-end, atualmente focado em Javascript
+- 👯 Sou co-founder de uma empresa chamada Pand desenvolvimento de sistemas
+- 🔭 Atualmente faço a gestão dos projetos e trabalho como desenvolvedor front-end na Neway
+- 🌱 Sempre estudando em constante evolução, trabalho com Angular, Ionic, React e React-native
+
+Também sou freelancer, então pode entrar em contato comigo para fazermos um projeto juntos
 
 <div align="center">
   <a href="https://github.com/MurilosMoraes">
