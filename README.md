@@ -14,7 +14,7 @@ Também sou freelancer, então pode entrar em contato comigo para fazermos um pr
 </div>
   
     
-  ## Mando bem em:
+  ## Minhas principais skills
   
   
   <div style="display: inline_block"><br>
