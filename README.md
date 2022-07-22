@@ -1,9 +1,9 @@
 ## Olá, eu sou o Murilo Moraes, desenvolvedor Front-end
 
 
-- 👯 Sou co-founder de uma empresa chamada Pand desenvolvimento de sistemas
-- 🔭 Atualmente faço a gestão dos projetos e trabalho como desenvolvedor front-end na Neway
-- 🌱 Sempre estudando em constante evolução, trabalho com Angular, Ionic, React e React-native
+-  Sou co-founder Pand desenvolvimento de sistemas
+-  Atualmente faço a gestão dos projetos e trabalho como desenvolvedor front-end na Neway
+-  Sempre estudando em constante evolução, trabalho com Angular, Ionic, React e React-native
 
 Também sou freelancer, então pode entrar em contato comigo para fazermos um projeto juntos
 
@@ -20,16 +20,11 @@ Também sou freelancer, então pode entrar em contato comigo para fazermos um pr
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
-</div>
-  
-  ## Estou estudando:
-  
-<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-  
+    
   ##
  
 <div style="display: inline_block "> 
