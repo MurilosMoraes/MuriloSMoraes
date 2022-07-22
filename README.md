@@ -1,9 +1,9 @@
 ## Olá, eu sou o Murilo Moraes, desenvolvedor Front-end
 
 
--  Sou co-founder Pand desenvolvimento de sistemas
+-  Sou co-founder da Pand desenvolvimento de sistemas
 -  Atualmente faço a gestão dos projetos e trabalho como desenvolvedor front-end na Neway
--  Sempre estudando em constante evolução, trabalho com Angular, Ionic, React e React-native
+-  Estudo diariamente para aumentar minhas skills
 
 Também sou freelancer, então pode entrar em contato comigo para fazermos um projeto juntos
 
