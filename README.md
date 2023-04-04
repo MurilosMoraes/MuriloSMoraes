@@ -1,11 +1,4 @@
-## Olá, eu sou o Murilo Moraes, desenvolvedor Front-end
-
-
--  Sou co-founder da Pand desenvolvimento de sistemas
--  Atualmente faço a gestão dos projetos e trabalho como desenvolvedor front-end na Neway
--  Estudo diariamente para aumentar minhas skills
-
-Também sou freelancer, então pode entrar em contato comigo para fazermos um projeto juntos
+Sou um desenvolvedor Front-end com experiência comprovada em projetos desafiadores e inovadores. Com background empreendedor, entendo a importância de entregar soluções que atendam às necessidades únicas de cada cliente. Já trabalhei com empresas renomadas como Electrolux, bancos digitais e casas de apostas, bem como com clientes internacionais, incluindo um projeto para um cliente na Nova Zelândia. Em cada um desses trabalhos, pude aplicar minhas habilidades em tecnologias como Ionic, Angular, React, React Native, HTML, CSS, JavaScript, TypeScript, SCSS, MUI, Tailwind, Bootstrap e Sass para criar soluções eficazes e eficientes . Meu foco em qualidade e usabilidade garantiu que cada projeto fosse concluído no prazo e atendesse às necessidades e expectativas do cliente. Se você está procurando um desenvolvedor dedicado e experiente que possa ajudá-lo a atingir seus objetivos de desenvolvimento de software, estou pronto para trabalhar com você.
 
 <div align="center">
   <a href="https://github.com/MurilosMoraes">
