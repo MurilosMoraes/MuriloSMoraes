@@ -1,7 +1,7 @@
 [🇺🇸 English version](README_EN.md)
 
 # Olá, eu sou o Murilo Moraes 👋  
-**Desenvolvedor Front-end | React | React Native | Next.js | Angular | Ionic**
+**Desenvolvedor Front-end | React | React Native | Next.js | Angular | Vue.js | Ionic**
 
 ---
 
@@ -48,13 +48,13 @@ Atuo com desenvolvimento front-end utilizando React, Next.js, React Native, Angu
   <img alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
   <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
   <img alt="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40" />
-  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
   <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" />
   <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
   <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-  <img alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-2.svg" width="40" height="40" />
+  <img alt="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40" />
 </div>
 
 ---
